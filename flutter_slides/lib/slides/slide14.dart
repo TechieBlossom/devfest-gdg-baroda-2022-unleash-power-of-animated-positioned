@@ -66,7 +66,8 @@ class _Slide14State extends State<Slide14> {
             items: [
               TextBoxItem(
                 text: '@SharmaPrateek7',
-                link: 'https://twitter.com/SharmaPrateek7',
+                link:
+                    'https://twitter.com/intent/follow?screen_name=SharmaPrateek7',
                 style: Theme.of(context)
                     .textTheme
                     .displayMedium
